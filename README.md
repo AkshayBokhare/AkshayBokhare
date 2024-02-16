@@ -32,6 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nts-akshaybokhare&show_icons=true&locale=en&layout=compact" alt="nts-akshaybokhare" /></p>
 
+![Snake animation](https://github.com/NTS-AkshayBokhare/NTS-AkshayBokhare/blob/output/github-contribution-grid-snake.svg)
 
 
 <h3 align="left">Connect with me:</h3>
