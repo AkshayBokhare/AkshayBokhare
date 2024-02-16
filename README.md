@@ -14,7 +14,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/NTS-AkshayBokhare](https://github.com/NTS-AkshayBokhare)
 
 - 💬 Ask me about **Android Development & Java Development**
-- 
 - 📫 How to reach me **bokhareakshay07@gmail.com**
   
  <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
