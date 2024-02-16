@@ -16,7 +16,6 @@
 - 💬 Ask me about **Android Development & Java Development**
 
 - 📫 How to reach me **bokhareakshay07@gmail.com**
-- 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NTS-AkshayBokhare&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
