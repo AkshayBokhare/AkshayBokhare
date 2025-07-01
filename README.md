@@ -4,15 +4,13 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=nts-akshaybokhare&theme=juicyfresh&no-bg=true" /> </p>
 
-- 🔭 I’m currently working on **NTS Android Projects**
+- 🔭 I’m currently working as **Fullstack Developer**
 
 - 🌱 I’m currently learning **Android Development,MVVM,Jetpack Compose , XML ,Room ,Firebase etc.**
 
-- 👯 I’m looking to collaborate on **Android Projects That used Kotlin**
-
 - 👨‍💻 All of my projects are available at [https://github.com/NTS-AkshayBokhare](https://github.com/NTS-AkshayBokhare)
 
-- 💬 Ask me about **Android Development & Java Development**
+- 💬 Ask me about **Android Development , Java Development , FrondEnd , React , Fluter , Angular**
 - 📫 How to reach me **bokhareakshay07@gmail.com**
   
  <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
