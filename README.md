@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as **Full Stack Developer**
 
-- 🌱 I’m currently learning **Android Development,MVVM,Jetpack Compose , XML ,Room ,Firebase etc.**
+- 🌱 I’m currently Working On **Angular 16 , 17**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NTS-AkshayBokhare](https://github.com/NTS-AkshayBokhare)
 
