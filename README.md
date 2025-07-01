@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=nts-akshaybokhare&theme=juicyfresh&no-bg=true" /> </p>
 
-- 🔭 I’m currently working as **Fullstack Developer**
+- 🔭 I’m currently working as **Full Stack Developer**
 
 - 🌱 I’m currently learning **Android Development,MVVM,Jetpack Compose , XML ,Room ,Firebase etc.**
 
