@@ -144,7 +144,7 @@ const akshay = {
 
 ## 📬 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NTS-AkshayBokhare)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkshayBokhare)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bokhareakshay07@gmail.com)
 
 </div>
