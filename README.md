@@ -23,8 +23,8 @@
 const akshay = {
   role      : "Full Stack Developer & Security Researcher",
   location  : "India 🇮🇳",
-  currently : ["Angular 17", "Spring Boot", "Flutter"],
-  passions  : ["Clean Architecture", "Mobile Dev", "Bug Bounty"],
+  currently : ["React Js, Angular", "Node Js", "Flutter"],
+  passions  : ["Clean Architecture", "Frontend Development", "Bug Bounty"],
   contact   : "bokhareakshay07@gmail.com",
   github    : "https://github.com/NTS-AkshayBokhare",
 };
