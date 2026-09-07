@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React Js_Angular+%7C+Node Js_Express js+%7C+Flutter+Dev+%F0%9F%93%B1;Security+Researcher+%F0%9F%94%90;Hall+of+Fame+%E2%80%94+Dell+%7C+Imperva+%7C+Nasdaq;Always+learning%2C+always+building+%F0%9F%92%AB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+Js%2FAngular+%7C+Node+Js%2FExpress+%F0%9F%92%BB;Security+Researcher+%F0%9F%94%90;Hall+of+Fame+%E2%80%94+Dell+%7C+Imperva+%7C+Nasdaq;Always+learning%2C+always+building+%F0%9F%92%AB" alt="Typing SVG" />
 
 </div>
 
